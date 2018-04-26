@@ -1,14 +1,16 @@
-GeoJSON and KML are formats for storing spatial information. KML files are commonly found with Google Earth
-type applications, so it can be useful to convert KML to GeoJSON.  The python library kml2geojson can be 
-used to convert KML to GeoJSON. kml2geojson works as either a tool from the command line, or can be used 
-as a library within other programs.
+# Converter kml para GeoJson
 
-Installation
+GeoJSON e KML são formatos para armazenar informações espaciais. Arquivos KML são comumente encontrados no Google Earth
+e aplicativos semelhantes, por isso pode ser útil converter KML em GeoJSON. A biblioteca python kml2geojson pode ser
+usado para converter KML para GeoJSON. kml2geojson funciona como uma ferramenta da linha de comando ou pode ser usado
+como uma biblioteca dentro de outros programas.
 
-Install kml2geojson using pip:
+### Instalação
 
-1 - pip install kml2geojson
-
+Instalação kml2geojson usando pip:
+```python
+pip install kml2geojson
+```
 ------
 
 Use As A Command Line Tool
