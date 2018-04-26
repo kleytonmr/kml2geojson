@@ -8,7 +8,7 @@ como uma biblioteca dentro de outros programas.
 ### Instalação
 
 Instalação kml2geojson usando pip:
-```python
+```py
 pip install kml2geojson
 ```
 ------
