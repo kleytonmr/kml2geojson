@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder id="4ddec456-c7b3-11dc-aaa5-dd553d8c9902">
+	<name>Estradas</name>
+	<visibility>0</visibility>
+	<Style>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<ItemIcon>
+				<state>open closed error fetching0 fetching1 fetching2</state>
+				<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend_l.png&amp;h=32</href>
+			</ItemIcon>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>2</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Channel id="87103c32-d9d8-11dc-9efa-911ed7729e07">
+		<name>Estradas Basar</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="b6e74f94-340b-11dd-97dd-e11b447e6a65">
+		<name>Mapcity Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="f144f098-d9d8-11dc-9f21-911ed7729e07">
+		<name>Estradas Geocentradas</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="15c4d37e-a022-11dd-8550-75ecaa5ad20d">
+		<name>Geosistemas Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="fe5bd0a8-d9d8-11dc-9778-911ed7729e07">
+		<name>Estardas Geowiki</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="cee8cde2-9519-11dd-a03b-4f530c59338a">
+		<name>Gisrael Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="f5767d52-d9d9-11dc-9311-911ed7729e07">
+		<name>Estradas Maplink</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="1e1f8406-d9da-11dc-8fa4-911ed7729e07">
+		<name>Estradas MDS</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="d7ce905c-9516-11dd-ad26-4f530c59338a">
+		<name>Orion English Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="53558bfa-efee-11dc-9b5d-3576a92852d0">
+		<name>Estradas PPWK</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="e1cd7aa4-622c-11dd-85c3-e1dee277f877">
+		<name>GT Belgium Dutch Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="f236bf3a-a017-11dd-85fd-75ecaa5ad20d">
+		<name>TeleAtlas Cyrillic Latin Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="c6c1a652-0a2b-11de-a40b-796086914093">
+		<name>TeleAtlas Finland Finnish Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="3777aec6-a025-11dd-8ae5-75ecaa5ad20d">
+		<name>TeleAtlas Greek Latin Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="79a087e0-0f17-11dd-8ac3-f7de40862264">
+		<name>TeleAtlas Thailand Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="86bdcb06-efee-11dc-9d5b-3576a92852d0">
+		<name>Estradas Zenrin</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="119d14cc-f753-11dd-aff9-0ba4e14ce7c8">
+		<name>Taiwan other Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="48d961be-f755-11dd-8cfb-0ba4e14ce7c8">
+		<name>Macau other Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="0a650f3e-6bd4-11de-b04b-6f30daa797e9">
+		<name>Ukraine English Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="93ab6c80-8be0-11de-8788-8754bd0d843b">
+		<name>GT Mexico Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="fde54c18-8be2-11de-b676-8754bd0d843b">
+		<name>China English Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="d4d826e2-a753-11de-87f0-39f43b39fb39">
+		<name>GT USA Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="7f2551d0-a757-11de-924c-39f43b39fb39">
+		<name>Hongkong English Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="74f0ef50-4e0d-11df-a96e-094401db6745">
+		<name>GT Canada Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="fb57fc32-cfbd-11df-9a15-d7d68c7c40c0">
+		<name>Colombia Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="e6f6e154-e7aa-11df-a7f1-77880e18aa7d">
+		<name>GT Europe Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<Channel id="f9fad256-e7aa-11df-8f54-77880e18aa7d">
+		<name>GT ZA Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+	<NetworkLink id="fa060ea6-bdf5-11e0-9c0d-e53467197162">
+		<name>Road exitnumbers KML hook</name>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/773_l.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<refreshVisibility>1</refreshVisibility>
+		<Link>
+			<href>http://mw1.google.com/mw-earth-vectordb/roads/exitnumbers/000001/root.kmz</href>
+		</Link>
+	</NetworkLink>
+	<Channel id="faed48aa-1176-11e1-882a-d9c0005aa773">
+		<name>GT Germany Roads</name>
+		<Style>
+			<ListStyle>
+				<listItemType>checkHideChildren</listItemType>
+				<ItemIcon>
+					<state>open closed error fetching0 fetching1 fetching2</state>
+					<href>http://kh.google.com:80/flatfile?lf-0-icons/roads_legend.png&amp;h=32</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+	</Channel>
+</Folder>
+</kml>
