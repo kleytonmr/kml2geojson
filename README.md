@@ -11,28 +11,24 @@ Instalação kml2geojson usando pip:
 ```py
 pip install kml2geojson
 ```
-------
+Use como ferramenta de linha de comando. O kml2geojson pode ser usado como uma ferramenta na linha de comando. Você pode usá-lo desta maneira se tiver alguns arquivos kml que você só precisa converter, sem qualquer programação adicional.
 
-Use As A Command Line Tool
-kml2geojson can be used as a tool from the command line. You can use it this way if you have some kml files 
-that you just need to convert, without any additional programming.
-
-The general usage of kml2geojson is:
-
+O uso geral do kml2geojson é:
+```py
 1 k2g [options] kml_file output_dir
-
-For basic usage we can run:
-
+```
+Para uso básico, podemos executar:
+```py
 1 k2g test.kml json_files
+```
+Que converterá o arquivo "test.kml" em "test.json" (uma "Coleção de recursos" do GeoJSON) e colocará a saída em um diretório "json_files". Se o diretório "json_files" não existir, ele será criado.
 
-Which will convert the file ‘test.kml’ to ‘test.json’ (a GeoJSON ‘Feature Collection‘) and put 
-the output into a directory ‘json_files’. If the directory ‘json_files’ does not exist, then it is created.
-
-To see more advanced features, run:
+Para ver recursos mais avançados, execute:
+```py
 1 k2g --help
+```
 
---------
-Or checkout the kml2geojson documentation.(https://rawgit.com/araichev/kml2geojson/master/docs/_build/singlehtml/index.html)
+Or checkout the kml2geojson [documentation].(https://rawgit.com/araichev/kml2geojson/master/docs/_build/singlehtml/index.html)
 --------
 
 Use As a library
