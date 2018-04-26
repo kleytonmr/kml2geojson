@@ -25,11 +25,11 @@ Que converterá o arquivo "test.kml" em "test.json" (uma "Coleção de recursos"
 
 Para ver recursos mais avançados, execute:
 ```py
-1 k2g --help
+1 k2g ---help
 ```
 
-Or checkout the kml2geojson [documentation].(https://rawgit.com/araichev/kml2geojson/master/docs/_build/singlehtml/index.html)
---------
+Ou verifique a [documentação](https://rawgit.com/araichev/kml2geojson/master/docs/_build/singlehtml/index.html) kml2geojson
+-----
 
 Use As a library
 kml2geojson can also be called as a library so you can convert kml to geojson within other programs.
